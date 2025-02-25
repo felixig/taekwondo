@@ -10,7 +10,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [how to test your site locally](pages/local_test.html).
 
 - [Overview](pages/overview.html)
-- [Making an independent website](pages/independent_site.html)
+- [Making an independent website](pages/exams.html)
 
 
 ---
